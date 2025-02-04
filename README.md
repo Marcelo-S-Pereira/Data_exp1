@@ -140,7 +140,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 Este projeto fornece um exemplo prático de como criar um pipeline de Data Science do zero, desde a leitura e análise dos dados até a preparação para modelagem. Com isso, é possível demonstrar habilidades importantes para seu portfólio, incluindo exploração de dados, feature engineering e visualização.
 
-<h1>Como Executar o Projeto</h1>
+<h1>Como Executar o Projeto - Local</h1>
 
 Clone este repositório.
 
